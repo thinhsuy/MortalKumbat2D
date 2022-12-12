@@ -1,0 +1,35 @@
+HP: 2000
+GravityGap: 40
+FramePerFight: 4
+SecPerFight: 0.1
+	
+Fire: DarkBall.png
+SpecialFire: RockBall.png
+
+DoubleNumb: False
+NoFrameMove: 6
+HeadMove: none
+TailMove: .png
+
+DoubleNumb: False
+NoFrameFight: 16
+HeadFight: none
+TailFight: .png
+
+DoubleNumb: False
+NoFrameAura: 10
+HeadAura: none
+TailAura: .png
+
+DoubleNumb: False
+NoFrameIndle: 8
+HeadIndle: none
+TailIndle: .png
+
+HurtImg: Hurt.png
+
+SoundAura: SoundAura.mp3
+SoudAuraHit: VocalMadara.mp3
+SoudSpecial_in_use: VocalMadara1.mp3
+
+SpecialBackground: specialBG.png
